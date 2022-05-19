@@ -46,3 +46,14 @@ header {
 .ms_border:last-of-type {
     padding-bottom: 90px;
 }
+/* FOOTER */
+footer {
+    background-color: #3a546d;
+    color: white;
+}
+.row div {
+    line-height: 50px;
+}
+#bottom_footer {
+    background-color: #2c3e50;
+}
