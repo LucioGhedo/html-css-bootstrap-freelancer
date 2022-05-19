@@ -1,3 +1,16 @@
+/* COMMON */
+img {
+    width: 100%;
+}
+section {
+    padding: 15px;
+}
+h1 {
+    color: white;
+}
+.ms_radius {
+    border-radius: 20px;
+}
 /* HEADER */
 header {
     background-color: #2c3e50;
@@ -9,4 +22,13 @@ header {
     color: grey;
     padding: 8px;
     display: inline;
+}
+
+/* MAIN */
+.ms_green {
+    background-color: #1bbc9c;
+}
+.ms_green img {
+    width: 50%;
+    margin-top: 50px;
 }
