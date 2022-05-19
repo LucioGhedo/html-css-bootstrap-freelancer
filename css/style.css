@@ -31,3 +31,18 @@ header {
 .ms_green img {
     width: 50%;
 }
+.ms_white {
+    color: black;
+}
+.ms_2_container {
+    width: 70%;
+    margin: 0 auto;
+    color: white;
+}
+.ms_border {
+    line-height: 3rem;
+    border-bottom: solid gray 1px;
+}
+.ms_border:last-of-type {
+    padding-bottom: 90px;
+}
