@@ -61,7 +61,7 @@ header {
     margin: 0 auto;
 }
 .ms_line {
-    border: solid white 3px;
+    border: solid white 2px;
     background-color: white;
     width: 30%;
     display: inline-block;
@@ -70,9 +70,10 @@ header {
     display: inline-block;
     color: white;
     font-size: 2rem;
+    vertical-align: middle;
 }
 .ms_line_black {
-    border: solid black 3px;
+    border: solid black 2px;
     background-color: black;
     width: 30%;
     display: inline-block;
@@ -81,6 +82,7 @@ header {
     display: inline-block;
     color: black;
     font-size: 2rem;
+    vertical-align: middle;
 }
 .ms_content {
     color: white;
