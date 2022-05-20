@@ -29,6 +29,9 @@ header {
     padding: 8px;
     display: inline;
 }
+.brand {
+    font-size: 1.8rem;
+}
 
 /* MAIN */
 .ms_green {
